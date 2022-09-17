@@ -1,0 +1,12 @@
+.application{
+    background-color: black;
+    /* height: 100vh; */
+    padding-top: 1rem;
+    padding-bottom: 100%
+}
+
+.Applycard{
+  margin: 1rem;
+  margin-right: 9rem;
+  margin-left: 9rem;
+}

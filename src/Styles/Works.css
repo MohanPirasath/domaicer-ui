@@ -1,0 +1,17 @@
+.WorkPic{
+    object-fit: cover;
+    height: 65vh;
+    width: 100vw;
+}
+.markBorder{
+    margin-top: 1rem solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+}
+.makeleft{
+    margin-right:1rem;
+    margin-left:1.2rem;
+    margin-bottom: 1rem;
+}

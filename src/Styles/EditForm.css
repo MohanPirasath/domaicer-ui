@@ -1,0 +1,17 @@
+.EditForm{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.EditBackground{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    object-fit: cover;
+    height: 85vh;
+    width: 100vw;
+    background-image: url(https://images.unsplash.com/photo-1662671664412-d0884a5ca9ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
+}

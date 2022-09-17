@@ -1,0 +1,19 @@
+.ApplyForm{
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    object-fit: cover;
+    height: 85vh;
+    width: 100vw;
+    background-image: url(https://images.unsplash.com/reserve/unsplash_529f1a3f2f5ed_1.JPG?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGRlc2VydCUyMHNreXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60);
+}
+
+.ApplyFORM{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+

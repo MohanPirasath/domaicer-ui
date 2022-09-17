@@ -1,0 +1,30 @@
+#LoginLogo{
+    height: 60px;
+
+}
+.LoginPage{
+    width: 30vw;
+    /* border: 1px solid black; */
+}
+
+.Loginset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+}
+
+.login_inputs{
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: .1rem solid lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.maketopspace{
+    /* margin-top: 1.7rem ; */
+    padding-top: .9rem;
+    padding-right: .9rem;
+}

@@ -1,0 +1,15 @@
+.postsss{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items:flex-start;
+}
+
+.postsess{
+    margin: 2rem;
+    width: 25rem;
+    padding: 2rem;
+}
+
+
+
